@@ -1,0 +1,76 @@
+Report Document (TaskFlow Website Report)
+Sections:
+
+Project Overview
+
+Purpose of the site
+
+Target audience
+
+Key goals
+
+Website Structure
+
+Header & Navigation
+
+Hero Section (primary & secondary buttons, social icons)
+
+Features section (with hover effects)
+
+"How It Works" steps
+
+Testimonials
+
+Pricing cards
+
+FAQ accordion
+
+Final CTA section
+
+Contact Sidebar (slide-in form)
+
+Footer
+
+Design & Styling
+
+Color palette & typography
+
+Button styles (primary, secondary)
+
+Responsive design behavior
+
+Social icons position adjustment for mobile
+
+Hover effects & disabling hover for mobile
+
+Responsive Design Adjustments
+
+Height fix for hero section (100vh on small screens)
+
+Centering social icons for mobile view
+
+Scaling feature boxes and other elements
+
+Mobile navigation (hamburger menu)
+
+Interactive Features
+
+Smooth scrolling to sections
+
+Contact sidebar toggle
+
+FAQ accordion expand/collapse
+
+Hover effects on feature images
+
+Technical Notes
+
+HTML5 semantic structure
+
+CSS custom classes
+
+JavaScript for interactivity
+
+External libraries: Font Awesome for icons
+
+Asset requirements (images, logo)
